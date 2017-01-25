@@ -1,12 +1,12 @@
 Summary:	Wrapper library for DNS name resolving or DNS faking
 Summary(pl.UTF-8):	Biblioteka obudowująca do rozwiązywania lub fałszowania nazw DNS
 Name:		resolv_wrapper
-Version:	1.1.4
+Version:	1.1.5
 Release:	1
 License:	BSD
 Group:		Libraries
 Source0:	https://www.samba.org/ftp/cwrap/%{name}-%{version}.tar.gz
-# Source0-md5:	bb4f8b1a02817ecb0781215eed830d12
+# Source0-md5:	3e32e5f303705fdbc75ae6eca825680b
 URL:		https://cwrap.org/resolv_wrapper.html
 BuildRequires:	cmake >= 2.8.0
 BuildRequires:	rpmbuild(macros) >= 1.605
